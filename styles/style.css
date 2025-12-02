@@ -10,8 +10,8 @@ body {
     font-family: 'Poppins', sans-serif;
     display: flex;
     flex-direction: column;
-    background: #FBFBFE;
-    color: #2B2B2B;
+    background: #FAFAFF;
+    color: #222222;
 }
 
 main {
@@ -19,7 +19,7 @@ main {
 }
 
 nav.blue-grey.darken-3 {
-    background: #4C567A !important;
+    background: #394867 !important;
 }
 
 nav.blue-grey.darken-3 .brand-logo {
@@ -29,15 +29,14 @@ nav.blue-grey.darken-3 .brand-logo {
 
 nav.blue-grey.darken-3 ul li a {
     color: #FFFFFF !important;
-    font-weight: 400 !important;
 }
 
 nav.blue-grey.darken-3 ul li a:hover {
-    background: rgba(255,255,255,0.15) !important;
+    background: rgba(255,255,255,0.20) !important;
 }
 
 footer.page-footer.blue-grey.darken-3 {
-    background: #4C567A !important;
+    background: #394867 !important;
     margin-top: auto !important;
     padding-top: 20px !important;
 }
@@ -60,35 +59,35 @@ footer.page-footer.blue-grey.darken-3 a {
 }
 
 .input-field label {
-    color: #6A6A6A !important;
+    color: #5F5F5F !important;
 }
 
 .input-field input {
-    border-bottom: 2px solid #A9D6FF !important;
-    color: #2B2B2B !important;
+    border-bottom: 2px solid #B4D7FF !important;
+    color: #222222 !important;
 }
 
 .input-field input:focus {
-    border-bottom-color: #FFCCE1 !important;
+    border-bottom-color: #E6C4FF !important;
 }
 
 .input-field input:focus + label {
-    color: #FFCCE1 !important;
+    color: #E6C4FF !important;
 }
 
 table td, table th {
     font-size: 0.95rem !important;
-    color: #2B2B2B !important;
+    color: #222222 !important;
 }
 
 table.highlight tbody tr:hover {
-    background-color: #EEF2FF !important;
+    background-color: #E8EDFF !important;
 }
 
 .input-editar {
     padding: 4px 6px;
     border-radius: 6px;
-    border: 1px solid #D8D8D8;
+    border: 1px solid #D0D0D0;
     font-size: 0.9rem;
 }
 
@@ -104,32 +103,32 @@ table.highlight tbody tr:hover {
 
 .btn.blue,
 .btn-small.blue {
-    background: #A9D6FF !important;
-    color: #2B2B2B !important;
+    background: #B4D7FF !important;
+    color: #222222 !important;
 }
 
 .btn.amber,
 .btn-small.amber {
-    background: #FFCCE1 !important;
-    color: #2B2B2B !important;
+    background: #E6C4FF !important;
+    color: #222222 !important;
 }
 
 .btn.red,
 .btn-small.red {
-    background: #FF9BAA !important;
-    color: #2B2B2B !important;
+    background: #FF9EA8 !important;
+    color: #222222 !important;
 }
 
 .btn.green,
 .btn-small.green {
-    background: #BAF2BB !important;
-    color: #2B2B2B !important;
+    background: #C4F4C2 !important;
+    color: #222222 !important;
 }
 
 .btn.grey,
 .btn-small.grey {
-    background: #D9D9D9 !important;
-    color: #2B2B2B !important;
+    background: #DFDFDF !important;
+    color: #222222 !important;
 }
 
 main .container {
